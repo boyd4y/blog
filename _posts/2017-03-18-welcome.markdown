@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Welcome!"
+date:   2017-03-18 22:36:47 +0800
+categories: blog
+---
+
+![Home]({{ site.url }}/assets/HomeAloneDog.jpg){:class="img-responsive"}
+
+打算在这里安家，开始记录自己学习思考的过程，并且认真记录笔记！
