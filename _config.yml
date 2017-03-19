@@ -23,6 +23,7 @@ social_link: twitter
 social_username: boyd4y
 github_username: boyd4y
 theme_color: white
+future: true
 
 # Build settings
 markdown: kramdown
